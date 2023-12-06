@@ -5,4 +5,13 @@ body{
     width: 700px;
     height: 400px;
     background-color: green;
+    overflow: hidden;
+}
+.red{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: red;
+    overflow: hidden;
+    
 }
