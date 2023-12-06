@@ -13,5 +13,5 @@ body{
     border-radius: 50%;
     background-color: red;
     overflow: hidden;
-    
+    display: block;
 }
