@@ -6,6 +6,7 @@ body{
     height: 400px;
     background-color: green;
     overflow: hidden;
+    margin: 100px auto;
 }
 .red{
     width: 200px;
